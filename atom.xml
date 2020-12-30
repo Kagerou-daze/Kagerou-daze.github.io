@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>title name</title>
+  <title>正在建设中的个人博客</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://kagerou-daze.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://kagerou-daze.github.io/"/>
   <updated>2020-12-28T13:13:41.195Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kagerou-daze.github.io/</id>
   
   <author>
-    <name>author name</name>
+    <name>阳炎Kagerou</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MY New Post</title>
-    <link href="http://yoursite.com/2020/12/28/MY-New-Post/"/>
-    <id>http://yoursite.com/2020/12/28/MY-New-Post/</id>
+    <link href="http://kagerou-daze.github.io/2020/12/28/MY-New-Post/"/>
+    <id>http://kagerou-daze.github.io/2020/12/28/MY-New-Post/</id>
     <published>2020-12-28T13:13:41.000Z</published>
     <updated>2020-12-28T13:13:41.195Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/12/28/hello-world/"/>
-    <id>http://yoursite.com/2020/12/28/hello-world/</id>
+    <link href="http://kagerou-daze.github.io/2020/12/28/hello-world/"/>
+    <id>http://kagerou-daze.github.io/2020/12/28/hello-world/</id>
     <published>2020-12-28T11:21:21.637Z</published>
     <updated>2020-12-28T11:21:21.637Z</updated>
     
